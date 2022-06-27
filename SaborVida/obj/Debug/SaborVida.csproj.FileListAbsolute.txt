@@ -1,0 +1,11 @@
+H:\Meus Projetos\SaborVida\bin\Debug\SaborVida.exe.config
+H:\Meus Projetos\SaborVida\bin\Debug\SaborVida.exe
+H:\Meus Projetos\SaborVida\bin\Debug\SaborVida.pdb
+H:\Meus Projetos\SaborVida\obj\Debug\SaborVida.csproj.AssemblyReference.cache
+H:\Meus Projetos\SaborVida\obj\Debug\SaborVida.csproj.SuggestedBindingRedirects.cache
+H:\Meus Projetos\SaborVida\obj\Debug\SaborVida.Form1.resources
+H:\Meus Projetos\SaborVida\obj\Debug\SaborVida.Properties.Resources.resources
+H:\Meus Projetos\SaborVida\obj\Debug\SaborVida.csproj.GenerateResource.cache
+H:\Meus Projetos\SaborVida\obj\Debug\SaborVida.csproj.CoreCompileInputs.cache
+H:\Meus Projetos\SaborVida\obj\Debug\SaborVida.exe
+H:\Meus Projetos\SaborVida\obj\Debug\SaborVida.pdb
